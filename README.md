@@ -1,1 +1,1 @@
-# SOLID-principles---typescript
+# SOLID-principles-typescript
