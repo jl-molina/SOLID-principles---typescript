@@ -1,7 +1,7 @@
 import { IBankAccount } from './bankAccount.interface'
 
-export class bankAccount implements IBankAccount {
-    private balance = 0;
+export class BankAccount implements IBankAccount {
+    balance = 0;
 
     deposit(amount: number): void {
         this.balance += amount;
